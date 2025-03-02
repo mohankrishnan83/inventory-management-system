@@ -244,10 +244,33 @@
   <diagram id="IUQlCvj0RqpQOYqhZjlv" name="Page-2">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="s4o392N-ZSV0-3WS5j18-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
-          <mxGeometry x="60" y="540" width="30" height="22.2" as="geometry" />
+        <mxCell id="s4o392N-ZSV0-3WS5j18-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s4o392N-ZSV0-3WS5j18-4" target="s4o392N-ZSV0-3WS5j18-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="573.5" as="sourcePoint" />
+            <mxPoint x="372" y="573.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s4o392N-ZSV0-3WS5j18-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;container=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="540" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="s4o392N-ZSV0-3WS5j18-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;container=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="72" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="s4o392N-ZSV0-3WS5j18-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="573.5" as="sourcePoint" />
+            <mxPoint x="232" y="573.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s4o392N-ZSV0-3WS5j18-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="s4o392N-ZSV0-3WS5j18-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="548" width="64" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

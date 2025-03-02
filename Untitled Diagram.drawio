@@ -270,7 +270,7 @@
           <mxGeometry x="240" y="540" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="s4o392N-ZSV0-3WS5j18-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="1">
-          <mxGeometry x="530" y="548" width="64" height="52" as="geometry" />
+          <mxGeometry x="570" y="540" width="64" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
